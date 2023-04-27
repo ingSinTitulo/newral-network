@@ -1,4 +1,7 @@
 # Newral Network - How neural networks learn?
+
+<img src="./img/newral-screenshot.png" alt="A screenshot of this repository running to make an inference after training">
+
 A very simple neural network that can be trained and then infer new situations. Every step is verbose, all involved code is here, no external dependencies required. May be it needs a little of work to make it easier to read, but for now it is a good starting point.
 
 ## Requirements
