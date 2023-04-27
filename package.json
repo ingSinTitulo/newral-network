@@ -1,0 +1,28 @@
+{
+  "name": "newral-network",
+  "version": "1.0.0",
+  "description": "A neural network stripped down to the mathematical operations involved to train it and infer a result",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingSinTitulo/newral-network.git"
+  },
+  "keywords": [
+    "neural",
+    "network"
+  ],
+  "author": "Alan Zatarain <ingsintitulo@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingSinTitulo/newral-network/issues"
+  },
+  "homepage": "https://github.com/ingSinTitulo/newral-network#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
